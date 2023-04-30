@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    align-items: center;
+}
+
+.columna2 {
+    margin-left: 50px;
+}
+
+.info {
+    font-size: larger;
+}
+
+button {
+    padding: 5px 10px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+#mensaje {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+#mensajeN, #mensajeA, #mensajeF {
+    margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
